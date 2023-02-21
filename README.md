@@ -26,7 +26,7 @@ The code will output a table with the following information for each website in 
     Whether there are any legitimate interests on the website
     Number of clicks needed to find legitimate interests (if any)
     Error (if any)]
-The code will also output a CSV file with the list of websites and their legitimate  purposes(in terms od True or False).
+The code will also output a CSV file with the list of websites and their legitimate  purposes(in terms of True or False).
 
 Additionally, Screenshots and text data are saved in output_files/
 
