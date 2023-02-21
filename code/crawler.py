@@ -256,7 +256,7 @@ def main():
         Whether there are any legitimate interests on the website
         Number of clicks needed to find legitimate interests (if any)
         Error (if any)
-        The code will also output a CSV file with the list of websites and their legitimate  purposes(in terms od True or False).
+        The code will also output a CSV file with the list of websites and their legitimate  purposes(in terms of True or False).
         
     """
     tranco = read_tranco('read_files/tranco_KKJW.csv')
