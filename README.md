@@ -22,7 +22,7 @@ rankings that are oriented for research, and aims to be reproducible.
 The code will output a table with the following information for each website in the input file:
     [Rank
     Website URL
-    Number of pages with legitimate interests
+    Number of pages crawled
     Whether there are any legitimate interests on the website
     Number of clicks needed to find legitimate interests (if any)
     Error (if any)]
