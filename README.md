@@ -8,7 +8,7 @@ rankings that are oriented for research, and aims to be reproducible.
 2. To use this code, you will need to have Python 3 installed on your machine.
   You can download it from the official [Python website.](https://www.python.org/downloads/)
 3. Navigate to the Code Directory
-   * `cd codes`
+   * `cd code`
 4. Create a new environment:
     - can be done with conda or virtualenv
 5. Activate the new environment and install the requirements:
