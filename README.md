@@ -5,6 +5,7 @@ rankings that are oriented for research, and aims to be reproducible.
 
 # Setting up the repo
 1. Clone this repository in the remote machine
+
 2.To use this code, you will need to have Python 3 installed on your machine.
   You can download it from the official [Python website.](https://www.python.org/downloads/)
 3. Navigate to the Code Directory
