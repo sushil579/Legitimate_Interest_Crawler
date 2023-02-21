@@ -15,7 +15,7 @@ rankings that are oriented for research, and aims to be reproducible.
     - activate the environment
    * `pip install -r requirements.txt`
 6. You should now be able to run the code as follows:
-   * `python crawler.py' 
+   * `python crawler.py` 
    
 
 Results
