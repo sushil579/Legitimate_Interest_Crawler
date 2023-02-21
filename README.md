@@ -30,5 +30,5 @@ The code will also output a CSV file with the list of websites and their legitim
 
 Additionally, Screenshots and text data are saved in output_files/
 
-
+# Contributing
 If you would like to contribute to this project, please open an issue or submit a pull request on GitHub.
