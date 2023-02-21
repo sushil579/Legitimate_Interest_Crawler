@@ -20,11 +20,11 @@ rankings that are oriented for research, and aims to be reproducible.
 
 # Results
 The code will output a table with the following information for each website in the input file:
-    [Rank
-    Website URL
-    Number of pages crawled
-    Whether there are any legitimate interests on the website
-    Number of clicks needed to find legitimate interests (if any)
+    [Rank,
+    Website URL,
+    Number of pages crawled,
+    Whether there are any legitimate interests on the website,
+    Number of clicks needed to find legitimate interests (if any),
     Error (if any)]
 The code will also output a CSV file with the list of websites and their legitimate  purposes(in terms of True or False).
 
