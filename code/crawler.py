@@ -260,7 +260,6 @@ def main():
         
     """
     tranco = read_tranco('read_files/tranco_KKJW.csv')
-    tranco = read_tranco('read_files/tranco.csv') 
     print("Welcome!!!!!")
     DF = pd.DataFrame()
     DFF = pd.DataFrame()
