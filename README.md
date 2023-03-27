@@ -5,9 +5,9 @@ rankings that are oriented for research, and aims to be reproducible.
 
 # Setting up the repo
 0. Install Google Chrome package
-   * `brew installl google-chrome`
-1. Clone this repository in the remote machine
-2. To use this code, you will need to have Python 3 installed on your machine.
+1.  * `brew installl google-chrome`
+2. Clone this repository in the remote machine
+3. To use this code, you will need to have Python 3 installed on your machine.
   You can download it from the official [Python website.](https://www.python.org/downloads/)
 3. Navigate to the Code Directory
    * `cd code`
