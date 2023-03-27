@@ -4,6 +4,8 @@ rankings that are oriented for research, and aims to be reproducible.
 
 
 # Setting up the repo
+0. Install Google Chrome package:
+  * `brew installl google-chrome`
 1. Clone this repository in the remote machine
 2. To use this code, you will need to have Python 3 installed on your machine.
   You can download it from the official [Python website.](https://www.python.org/downloads/)
@@ -32,3 +34,6 @@ Additionally, Screenshots and text data are saved in output_files/
 
 # Contributing
 If you would like to contribute to this project, please open an issue or submit a pull request on GitHub.
+
+# Disclaimer
+The web crawler is from May 2022, The webpages might be different now.
